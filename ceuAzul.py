@@ -1,3 +1,4 @@
+#Sobre encontrar paz em alguém, enxergar beleza nos pequenos momentos e desejar que o tempo desacelere só mais um pouco.
 import time
 import os
 from rich.console import Console
