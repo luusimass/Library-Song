@@ -1,3 +1,4 @@
+#A beleza de viver intensamente aquilo que sabemos que pode não durar para sempre. Algumas noites acabam, mas certos sentimentos permanecem.
 import time
 import os
 from rich.console import Console
